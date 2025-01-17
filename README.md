@@ -1,2 +1,3 @@
 # Try-hack-me
 Cybersecurity path of try hack me 
+https://tryhackme.com/r/resources/blog/free_path?mcp_token=eyJwaWQiOjE1MzQwNTAsInNpZCI6NDQ1ODEwNzc4LCJheCI6IjdlZDAwMmJhZTkyNmU4YTU4Yjk1ODg3MTQ3OTJiN2U5IiwidHMiOjE3MzU0MjY1ODEsImV4cCI6MTczNzg0NTc4MX0.E-I0dH7iIwaG-wQO0Ikyhn1w0myIXCnN6JDCZluwMCA
